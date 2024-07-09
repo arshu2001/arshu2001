@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&random=false&width=435&lines=Arshad;Flutter+Full+Stack+Developer)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Arshad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshu2001&label=Profile%20views&color=0e75b6&style=flat" alt="arshu2001" /> </p>
 
